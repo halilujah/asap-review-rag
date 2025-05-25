@@ -1,0 +1,7 @@
+{"time":"2025-05-25T17:45:26.6958208+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"c:\\Users\\halil\\Documents\\asap-review-rag\\notebooks\\wandb\\run-20250525_174526-3lm3zd5a\\logs\\debug-core.log"}
+{"time":"2025-05-25T17:45:27.0738543+03:00","level":"INFO","msg":"created new stream","id":"3lm3zd5a"}
+{"time":"2025-05-25T17:45:27.0738543+03:00","level":"INFO","msg":"stream: started","id":"3lm3zd5a"}
+{"time":"2025-05-25T17:45:27.0743696+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"3lm3zd5a"}
+{"time":"2025-05-25T17:45:27.0743696+03:00","level":"INFO","msg":"handler: started","stream_id":"3lm3zd5a"}
+{"time":"2025-05-25T17:45:27.0743696+03:00","level":"INFO","msg":"sender: started","stream_id":"3lm3zd5a"}
+{"time":"2025-05-25T17:45:27.3693202+03:00","level":"INFO","msg":"Starting system monitor"}

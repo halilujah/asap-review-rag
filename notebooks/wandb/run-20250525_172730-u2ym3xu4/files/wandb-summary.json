@@ -1,0 +1,1 @@
+{"_wandb":{"runtime":0},"preliminary_accuracy":0.6,"baseline_accuracy":0.43,"confusion_matrix":{"Reject → Reject":1207,"Accept → Accept":4088,"Accept → Reject":1301,"Reject → Accept":2126},"_timestamp":1.7481832508924017e+09,"_runtime":0.8238725,"_step":0}

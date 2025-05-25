@@ -1,0 +1,31 @@
+{
+  "os": "Windows-11-10.0.22631-SP0",
+  "python": "CPython 3.12.4",
+  "startedAt": "2025-05-25T14:41:16.206432Z",
+  "program": "c:\\Users\\halil\\Documents\\asap-review-rag\\notebooks\\wandb.ipynb",
+  "codePath": "notebooks\\wandb.ipynb",
+  "git": {
+    "remote": "https://github.com/halilujah/asap-review-rag.git",
+    "commit": "717b132aa9b7763dd71464b96576f58718374d58"
+  },
+  "email": "halil.i.yasavul@gmail.com",
+  "root": "c:\\Users\\halil\\Documents\\asap-review-rag\\notebooks",
+  "host": "Yasavul",
+  "executable": "c:\\Python312\\python.exe",
+  "codePathLocal": "wandb.ipynb",
+  "cpu_count": 10,
+  "cpu_count_logical": 12,
+  "disk": {
+    "/": {
+      "total": "511244759040",
+      "used": "251159068672"
+    }
+  },
+  "memory": {
+    "total": "16848252928"
+  },
+  "cpu": {
+    "count": 10,
+    "countLogical": 12
+  }
+}

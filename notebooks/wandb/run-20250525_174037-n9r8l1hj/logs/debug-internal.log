@@ -1,0 +1,19 @@
+{"time":"2025-05-25T17:40:37.5473947+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"c:\\Users\\halil\\Documents\\asap-review-rag\\notebooks\\wandb\\run-20250525_174037-n9r8l1hj\\logs\\debug-core.log"}
+{"time":"2025-05-25T17:40:37.9904251+03:00","level":"INFO","msg":"created new stream","id":"n9r8l1hj"}
+{"time":"2025-05-25T17:40:37.9909718+03:00","level":"INFO","msg":"stream: started","id":"n9r8l1hj"}
+{"time":"2025-05-25T17:40:37.9909718+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"n9r8l1hj"}
+{"time":"2025-05-25T17:40:37.9909718+03:00","level":"INFO","msg":"sender: started","stream_id":"n9r8l1hj"}
+{"time":"2025-05-25T17:40:37.9909718+03:00","level":"INFO","msg":"handler: started","stream_id":"n9r8l1hj"}
+{"time":"2025-05-25T17:40:38.272219+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-25T17:41:10.1963761+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-25T17:41:10.1998617+03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-25T17:41:14.9520491+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-25T17:41:14.961193+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-25T17:41:14.961193+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-25T17:41:15.910172+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-25T17:41:15.9778773+03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary","runtime_seconds":0.0677053}],"total_operations":1}}
+{"time":"2025-05-25T17:41:16.2038093+03:00","level":"INFO","msg":"stream: closing","id":"n9r8l1hj"}
+{"time":"2025-05-25T17:41:16.2038093+03:00","level":"INFO","msg":"handler: closed","stream_id":"n9r8l1hj"}
+{"time":"2025-05-25T17:41:16.2038093+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"n9r8l1hj"}
+{"time":"2025-05-25T17:41:16.2038093+03:00","level":"INFO","msg":"sender: closed","stream_id":"n9r8l1hj"}
+{"time":"2025-05-25T17:41:16.2038093+03:00","level":"INFO","msg":"stream: closed","id":"n9r8l1hj"}

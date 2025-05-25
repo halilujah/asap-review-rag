@@ -1,0 +1,1 @@
+{"preliminary_accuracy":0.6,"_runtime":201.7846433,"_timestamp":1.7481829691529562e+09,"confusion_accept_reject":1301,"baseline_accuracy":0.43,"confusion_reject_accept":2126,"confusion_reject_reject":1207,"_wandb":{"runtime":230},"_step":0,"confusion_accept_accept":4088}
