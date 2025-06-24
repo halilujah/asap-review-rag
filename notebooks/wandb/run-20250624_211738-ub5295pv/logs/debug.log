@@ -1,0 +1,26 @@
+2025-06-24 21:17:38,231 INFO    MainThread:3520 [wandb_init.py:setup_run_log_directory():724] Logging user logs to c:\Users\halil\Documents\asap-review-rag\notebooks\wandb\run-20250624_211738-ub5295pv\logs\debug.log
+2025-06-24 21:17:38,232 INFO    MainThread:3520 [wandb_init.py:setup_run_log_directory():725] Logging internal logs to c:\Users\halil\Documents\asap-review-rag\notebooks\wandb\run-20250624_211738-ub5295pv\logs\debug-internal.log
+2025-06-24 21:17:38,232 INFO    MainThread:3520 [wandb_init.py:init():852] calling init triggers
+2025-06-24 21:17:38,232 INFO    MainThread:3520 [wandb_init.py:init():857] wandb.init called with sweep_config: {}
+config: {'retriever': 'Sentence-BERT (all-MiniLM-L6-v2)', 'input': 'title + intro', 'aggregation': 'softmax-weighted voting', 'k': 10, 'baseline_accuracy': 0.43, 'preliminary_accuracy': 0.6, '_wandb': {}}
+2025-06-24 21:17:39,496 INFO    MainThread:3520 [wandb_init.py:init():893] starting backend
+2025-06-24 21:17:39,496 INFO    MainThread:3520 [wandb_init.py:init():897] sending inform_init request
+2025-06-24 21:17:39,497 INFO    MainThread:3520 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-06-24 21:17:39,498 INFO    MainThread:3520 [wandb_init.py:init():907] backend started and connected
+2025-06-24 21:17:39,499 INFO    MainThread:3520 [wandb_run.py:_label_probe_notebook():1376] probe notebook
+2025-06-24 21:17:39,517 INFO    MainThread:3520 [wandb_run.py:_label_probe_notebook():1386] Unable to probe notebook: 'charmap' codec can't decode byte 0x81 in position 9088: character maps to <undefined>
+2025-06-24 21:17:39,517 INFO    MainThread:3520 [wandb_init.py:init():1005] updated telemetry
+2025-06-24 21:17:39,576 INFO    MainThread:3520 [wandb_init.py:init():1029] communicating run to backend with 90.0 second timeout
+2025-06-24 21:17:40,242 INFO    MainThread:3520 [wandb_init.py:init():1104] starting run threads in backend
+2025-06-24 21:17:40,379 INFO    MainThread:3520 [wandb_run.py:_console_start():2573] atexit reg
+2025-06-24 21:17:40,380 INFO    MainThread:3520 [wandb_run.py:_redirect():2421] redirect: wrap_raw
+2025-06-24 21:17:40,380 INFO    MainThread:3520 [wandb_run.py:_redirect():2490] Wrapping output streams.
+2025-06-24 21:17:40,380 INFO    MainThread:3520 [wandb_run.py:_redirect():2513] Redirects installed.
+2025-06-24 21:17:40,380 INFO    MainThread:3520 [wandb_init.py:init():1150] run started, returning control to user process
+2025-06-24 21:18:14,813 INFO    MainThread:3520 [wandb_run.py:_finish():2321] finishing run halil-i-yasavul-middle-east-technical-university/asap-rag-peer-review/ub5295pv
+2025-06-24 21:18:14,814 INFO    MainThread:3520 [wandb_run.py:_atexit_cleanup():2538] got exitcode: 0
+2025-06-24 21:18:14,814 INFO    MainThread:3520 [wandb_run.py:_restore():2520] restore
+2025-06-24 21:18:14,814 INFO    MainThread:3520 [wandb_run.py:_restore():2526] restore done
+2025-06-24 21:18:16,433 INFO    MainThread:3520 [wandb_run.py:_footer_history_summary_info():4188] rendering history
+2025-06-24 21:18:16,433 INFO    MainThread:3520 [wandb_run.py:_footer_history_summary_info():4220] rendering summary
+2025-06-24 21:18:16,434 INFO    MainThread:3520 [wandb_run.py:_footer_sync_info():4149] logging synced files

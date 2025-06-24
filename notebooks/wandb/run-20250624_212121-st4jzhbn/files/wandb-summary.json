@@ -1,0 +1,1 @@
+{"_step":0,"total_predictions":8900,"reject_as_accept":2126,"_wandb":{"runtime":0},"accuracy_baseline":0.43,"accept_as_reject":1301,"reject_as_reject":1207,"accuracy_preliminary":0.6,"correct_predictions":5300,"_runtime":0.8009676,"accept_as_accept":4088,"_timestamp":1.750789283906338e+09}

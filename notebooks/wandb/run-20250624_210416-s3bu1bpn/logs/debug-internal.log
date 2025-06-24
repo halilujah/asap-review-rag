@@ -1,0 +1,19 @@
+{"time":"2025-06-24T21:04:16.7209333+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"c:\\Users\\halil\\Documents\\asap-review-rag\\notebooks\\wandb\\run-20250624_210416-s3bu1bpn\\logs\\debug-core.log"}
+{"time":"2025-06-24T21:04:17.5308339+03:00","level":"INFO","msg":"created new stream","id":"s3bu1bpn"}
+{"time":"2025-06-24T21:04:17.5308339+03:00","level":"INFO","msg":"handler: started","stream_id":"s3bu1bpn"}
+{"time":"2025-06-24T21:04:17.5308339+03:00","level":"INFO","msg":"stream: started","id":"s3bu1bpn"}
+{"time":"2025-06-24T21:04:17.5313595+03:00","level":"INFO","msg":"sender: started","stream_id":"s3bu1bpn"}
+{"time":"2025-06-24T21:04:17.5313595+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"s3bu1bpn"}
+{"time":"2025-06-24T21:04:17.9908461+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-24T21:04:27.1610458+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-06-24T21:04:27.162204+03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-06-24T21:04:41.7308974+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-06-24T21:04:41.7353334+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-24T21:04:41.7353334+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-24T21:04:42.5791007+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-24T21:04:42.7535064+03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary","runtime_seconds":0.1744057}],"total_operations":1}}
+{"time":"2025-06-24T21:04:42.9225402+03:00","level":"INFO","msg":"stream: closing","id":"s3bu1bpn"}
+{"time":"2025-06-24T21:04:42.9225402+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"s3bu1bpn"}
+{"time":"2025-06-24T21:04:42.9225402+03:00","level":"INFO","msg":"handler: closed","stream_id":"s3bu1bpn"}
+{"time":"2025-06-24T21:04:42.9225402+03:00","level":"INFO","msg":"sender: closed","stream_id":"s3bu1bpn"}
+{"time":"2025-06-24T21:04:42.9225402+03:00","level":"INFO","msg":"stream: closed","id":"s3bu1bpn"}

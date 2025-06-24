@@ -5,3 +5,4 @@
 {"time":"2025-05-25T17:45:27.0743696+03:00","level":"INFO","msg":"handler: started","stream_id":"3lm3zd5a"}
 {"time":"2025-05-25T17:45:27.0743696+03:00","level":"INFO","msg":"sender: started","stream_id":"3lm3zd5a"}
 {"time":"2025-05-25T17:45:27.3693202+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-26T18:50:58.8483996+03:00","level":"ERROR","msg":"filestream: json decode error: context deadline exceeded"}

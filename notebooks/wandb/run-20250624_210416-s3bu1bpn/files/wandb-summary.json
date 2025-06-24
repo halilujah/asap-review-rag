@@ -1,0 +1,1 @@
+{"_timestamp":1.7507882671615524e+09,"final_accuracy":0.64,"_wandb":{"runtime":25},"_runtime":10.4481858,"other→reject":32,"other→accept":101,"reject→reject":1278,"accept→reject":1039,"accept→accept":4350,"_step":0,"reject→accept":2055}

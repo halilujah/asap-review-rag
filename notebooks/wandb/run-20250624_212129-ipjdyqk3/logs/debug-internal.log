@@ -1,0 +1,19 @@
+{"time":"2025-06-24T21:21:29.5280405+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"c:\\Users\\halil\\Documents\\asap-review-rag\\notebooks\\wandb\\run-20250624_212129-ipjdyqk3\\logs\\debug-core.log"}
+{"time":"2025-06-24T21:21:29.895275+03:00","level":"INFO","msg":"created new stream","id":"ipjdyqk3"}
+{"time":"2025-06-24T21:21:29.895275+03:00","level":"INFO","msg":"stream: started","id":"ipjdyqk3"}
+{"time":"2025-06-24T21:21:29.8954113+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"ipjdyqk3"}
+{"time":"2025-06-24T21:21:29.8954113+03:00","level":"INFO","msg":"sender: started","stream_id":"ipjdyqk3"}
+{"time":"2025-06-24T21:21:29.8954113+03:00","level":"INFO","msg":"handler: started","stream_id":"ipjdyqk3"}
+{"time":"2025-06-24T21:21:30.2211677+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-24T21:21:32.4254956+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-06-24T21:21:32.4267004+03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-06-24T21:21:34.0166189+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-06-24T21:21:34.0205241+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-24T21:21:34.0205241+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-24T21:21:34.7957868+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-24T21:21:35.0295918+03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 0-0, summary","runtime_seconds":0.233805}],"total_operations":1}}
+{"time":"2025-06-24T21:21:35.1202819+03:00","level":"INFO","msg":"stream: closing","id":"ipjdyqk3"}
+{"time":"2025-06-24T21:21:35.1202819+03:00","level":"INFO","msg":"handler: closed","stream_id":"ipjdyqk3"}
+{"time":"2025-06-24T21:21:35.1208059+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ipjdyqk3"}
+{"time":"2025-06-24T21:21:35.1208059+03:00","level":"INFO","msg":"sender: closed","stream_id":"ipjdyqk3"}
+{"time":"2025-06-24T21:21:35.1208059+03:00","level":"INFO","msg":"stream: closed","id":"ipjdyqk3"}
